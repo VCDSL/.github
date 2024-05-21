@@ -1,7 +1,7 @@
 # Visual Computing and Data Science Research Group
 **Department of Computer Science and Engineering, University of Moratuwa, Sri Lanka**
 
-**Principle Investigator: [Dr. Thanuja D. Ambegoda](https://thanuj.lk)** [Google Scholar](https://scholar.google.com/citations?user=DJYcqxMAAAAJ&hl=en&oi=ao)
+**Principle Investigator: [Dr. Thanuja D. Ambegoda](https://thanuj.lk)**
 
 This space showcases a diverse range of projects developed by current and former members of our group.
 
